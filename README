@@ -1,0 +1,20 @@
+Terragen
+========
+
+Intro
+-----
+
+This is a simple perlin noise-based heightmap generator with SDL renderer.
+It generates 2d slices of 3d perlin noise, then adds them together with some weights.
+
+Compiling and running
+---------------------
+
+	make all # to compile
+	make test # to compile and run
+	./main # to run
+
+License
+-------
+
+WTFPL licensed
